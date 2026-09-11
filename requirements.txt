@@ -1,3 +1,8 @@
 streamlit
 llama-cpp-python==0.2.90
 huggingface-hub
+fastembed
+chromadb
+pypdf
+groq
+python-dotenv
